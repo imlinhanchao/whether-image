@@ -1,6 +1,6 @@
 {
   "name": "whether-image",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "check a file whether image",
   "main": "lib/index.js",
   "scripts": {
@@ -47,11 +47,11 @@
   },
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/imlinhanchao/isimage.git"
+      "url": "git+https://github.com/imlinhanchao/whether-image.git"
   },
   "bugs": {
-      "url": "https://github.com/imlinhanchao/isimage/issues",
+      "url": "https://github.com/imlinhanchao/whether-image/issues",
       "email": "imlinhanchao@gmail.com"
   },
-  "homepage": "https://github.com/imlinhanchao/isimage#readme"
+  "homepage": "https://github.com/imlinhanchao/whether-image#readme"
 }
