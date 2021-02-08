@@ -1,6 +1,6 @@
 {
-  "name": "isimage",
-  "version": "1.0.0",
+  "name": "whether-image",
+  "version": "0.0.1",
   "description": "check a file whether image",
   "main": "lib/index.js",
   "scripts": {

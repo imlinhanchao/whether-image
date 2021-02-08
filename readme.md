@@ -1,24 +1,24 @@
-# IsImage
+# Whether Image
 
 A module used to determine whether a file is a picture. Judge based on the file header.
 
 ## Installation
 ```bash
-npm install isimage
+npm install whether-image
 ```
 
 ## Usage
 
 ```typescript
 // Get Image Real type
-import img from 'isimage';
+import img from 'whether-image';
 img.getImageSuffix('your/image/file/path'); 
 // => `bmp` or `jpg` or `jpeg` or `png` or `gif` or `webp` or `tiff` or `tif`
 ```
 
 ```typescript
 // Check is Image
-import img from 'isimage';
+import img from 'whether-image';
 img.isImage('your/image/file/path');
 // => true or false
 ```
