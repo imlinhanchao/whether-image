@@ -1,6 +1,6 @@
 {
   "name": "whether-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "check a file whether image",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,6 @@
   ],
   "keywords": [
     "image",
-    "is",
     "file",
     "photo",
     "picture",
@@ -23,7 +22,16 @@
     "jpeg",
     "png",
     "gif",
-    "bmp"
+    "webp",
+    "tiff",
+    "tif",
+    "bmp",
+    "is-image",
+    "is-jpg",
+    "is-png",
+    "is-gif",
+    "is-webp",
+    "is-bmp"
   ],
   "author": "Hancel.Lin",
   "license": "MIT",
