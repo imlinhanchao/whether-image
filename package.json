@@ -36,5 +36,14 @@
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.1.3"
-  }
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/imlinhanchao/isimage.git"
+  },
+  "bugs": {
+      "url": "https://github.com/imlinhanchao/isimage/issues",
+      "email": "imlinhanchao@gmail.com"
+  },
+  "homepage": "https://github.com/imlinhanchao/isimage#readme"
 }
